@@ -1,0 +1,12 @@
+Đây là đọc ghi file cơ bản được bằng python code trên jupyter notebook 
+một phần mền khá tốt cho bạn nào thích xem lại
+
+Cách cài jupyter notebook
+B1: windowns + r
+B2 :  gõ cmd + enter
+B3: gõ pip install jupyter notebook
+Cách sử dung:
+	giải nén file tải về rồi vào đó gõ trên phần đường dẫn chữ jupyter notebook rồi
+	chờ một tý là chạy được luôn
+author: hoang-mata
+ -- thực sự thì khi học lập trình mình rất sợ phần đọc ghi file nhưng cứ học là hiểu thôi à --
